@@ -1,0 +1,1 @@
+# dc-accelerators-content-types
